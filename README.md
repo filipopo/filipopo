@@ -1,10 +1,10 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=filipopo&show_icons=true&theme=transparent&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api?username=filipopo&contribs_include_own_repos=true&show_icons=true&theme=transparent&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=filipopo&show_icons=true&bg_color=00000000" />
+    <img src="https://github-stats-extended.vercel.app/api?username=filipopo&contribs_include_own_repos=true&show_icons=true&bg_color=00000000" />
   </picture>
 
   <picture>
